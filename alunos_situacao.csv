@@ -1,0 +1,5 @@
+aluno,nota_1,nota_2,faltas,média,status,Status
+aluno1,7,7,1,7.0,Aprovado,Aprovado
+aluno2,3,10,7,6.5,Reprovado,Reprovado
+aluno3,9,4,2,6.5,Aprovado,Not Specified
+aluno4,10,6,9,8.0,Aprovado,Not Specified
