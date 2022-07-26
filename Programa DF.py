@@ -23,4 +23,4 @@ print("Maior número de faltas:", df['faltas'].max())
 print("Maior média:", df['média'].max())
 print("Média da turma:", df['média'].mean())
 
-dados.to_csv('alunos_situacao.csv', index=False)
+dados.to_csv('alunos_situacao.csv', index=False);
